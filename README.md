@@ -10,6 +10,8 @@ N/A
 
 ## Usage
 
+The following is the link to the Horiseon Digital Marketing webpage: https://itzelherndz.github.io/semantic-refactor/
+
 The Horieseon Digital Marketing webpage can be used to get informed about search engine optimization, online reputation management and social media marketing and their benefits. Each of the topics can be easily accessed through clicking on their title on the navigation bar as shown on the image below. 
 
 ![Screen Recording](assets/images/screen-cast.gif)
